@@ -148,7 +148,7 @@ These are typically historical papers, illustrations of specific techniques, or 
 
 <div style="text-indent: -40px; padding-left: 40px;">
 
-#### <u>Section 1</u>
+#### <u>Section 1</u> {.unnumbered}
 
 Loken, E., & Gelman, A. (2017). Measurement error and the replication crisis. *Science, 355*(6325), 584–585. https://doi.org/10.1126/science.aal3618
 
@@ -166,7 +166,7 @@ McNeish, D. (2018). Thanks coefficient alpha, we’ll take it from here. *Psycho
 
 \*Garland, L. H. (1960). The problem of observer error. *Bulletin of the New York Academy of Medicine, 36*(9), 570–584.
 
-#### <u>Section 3</u> {#section4}
+#### <u>Section 3</u> {.unnumbered #section4}
 
 <u>Section 3</u>
 
