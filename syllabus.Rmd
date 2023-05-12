@@ -157,7 +157,8 @@ Please submit your paper via [ICON](https://icon.uiowa.edu).
 \*Designates a paper that you should read, get the basic idea, and remember where to find it if you need further information.
 These are typically historical papers, illustrations of specific techniques, or useful references.
 
-Highlighted readings are the ones that you should pay closest attention to.
+References highlighted in yellow are the readings that you should pay closest attention to.
+Blue highlights provide additional useful information.
 
 ## Psychometrics, Prediction, and General Issues
 
@@ -197,8 +198,8 @@ Wiggins, J. S. (1973). Observational techniques: I. Generalizability and facets 
 
 Hayes, S. C., Nelson, R. O., & Jarrett, R. B. (1987). The treatment utility of assessment: A functional approach to evaluating assessment quality. *American Psychologist, 42*, 963–974. https://doi.org/10.1037/0003-066X.42.11.963
 
-<mark>Meehl, P. E. (1973). Chapter 1. *Psychodiagnosis: Selected papers*. University of Minnesota Press.
-[This is Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in psychological tests. *Psychological Bulletin, 52*(4), 281–302. https://doi.org/10.1037/h0040957]</mark>
+<mark>Meehl, P. E. (1973). Chapter 1. *Psychodiagnosis: Selected papers*. University of Minnesota Press.</mark>
+<mark style="background-color: lightblue">[This is Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in psychological tests. *Psychological Bulletin, 52*(4), 281–302. https://doi.org/10.1037/h0040957]</mark>
 
 #### <u>Section 5</u> {.unnumbered #section5}
 
@@ -209,8 +210,8 @@ Hayes, S. C., Nelson, R. O., & Jarrett, R. B. (1987). The treatment utility of a
 Bornstein, R. F. (2011). Toward a process-focused model of test score validity: Improving psychological assessment in science and practice. *Psychological Assessment, 23*(2), 532–544. https://doi.org/10.1037/a0022402
 
 \*American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. American Educational Research Association.
-[This is available in the clinic library.
-You don't need to read this for our class, but you should know it exists as a reference, because it sets the standard for APA journals, licensure exams, and beyond.]
+<mark style="background-color: lightblue">[This is available in the clinic library.
+You don't need to read this for our class, but you should know it exists as a reference, because it sets the standard for APA journals, licensure exams, and beyond.]</mark>
 
 ### Emerging Perspectives in Measurement
 
@@ -223,7 +224,7 @@ You don't need to read this for our class, but you should know it exists as a re
 <mark>Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. (2012). Sources of method bias in social science research and recommendations on how to control it. *Annual Review of Psychology, 63*(1), 539–569. https://doi.org/10.1146/annurev-psych-120710-100452</mark>
 
 Edwards, J. R., & Bagozzi, R. P. (2000). On the nature and direction of relationships between constructs and measures. *Psychological Methods, 5*(2), 155–174. https://doi.org/10.1037/1082-989X.5.2.155
-[read pp. 155–162 carefully, but don't worry about the complex path models that follow unless they are relevant to your own research.]
+<mark style="background-color: lightblue">[read pp. 155–162 carefully, but don't worry about the complex path models that follow unless they are relevant to your own research.]</mark>
 
 #### Item Response Theory (IRT) {#section7}
 
@@ -243,8 +244,8 @@ Reise, S. P., & Waller, N. G. (2009). Item response theory and clinical measurem
 
 #### <u>Section 8</u> {.unnumbered}
 
-<mark>Meehl, P. E. (1973). Chapter 2. *Psychodiagnosis: Selected papers*. University of Minnesota Press.
-[This is Meehl, P. E., & Rosen, A. (1955). Antecedent probability and the efficiency of psychometric signs, patterns, or cutting scores. *Psychological Bulletin, 52*(3), 194–216. https://doi.org/10.1037/h0048070]</mark>
+<mark>Meehl, P. E. (1973). Chapter 2. *Psychodiagnosis: Selected papers*. University of Minnesota Press.</mark>
+<mark style="background-color: lightblue">[This is Meehl, P. E., & Rosen, A. (1955). Antecedent probability and the efficiency of psychometric signs, patterns, or cutting scores. *Psychological Bulletin, 52*(3), 194–216. https://doi.org/10.1037/h0048070]</mark>
 
 ### Signal Detection Theory {#section9}
 
@@ -284,7 +285,8 @@ Sechrest, L., Stickle, T. R., & Stewart, M. (1998). The role of assessment in cl
 
 <mark>Hunsley, J., & Mash, E. J. (2007). Evidence-based assessment. *Annual Review of Clinical Psychology, 3*, 29–51. https://doi.org/10.1146/annurev.clinpsy.3.022806.091419</mark>
 
-Antony, M. M., & Rowa, K. (2005). Evidence-based assessment of anxiety disorders in adults. *Psychological Assessment, 17*(3), 256–266. https://doi.org/10.1037/1040-3590.17.3.256 [This is a case study in evidence-based assessment—it's the general approach that matters, not what is specific about anxiety.]
+Antony, M. M., & Rowa, K. (2005). Evidence-based assessment of anxiety disorders in adults. *Psychological Assessment, 17*(3), 256–266. https://doi.org/10.1037/1040-3590.17.3.256
+<mark style="background-color: lightblue">[This is a case study in evidence-based assessment—it's the general approach that matters, not what is specific about anxiety.]</mark>
 
 Youngstrom, E. A., & Van Meter, A. (2016). Empirically supported assessment of children and adolescents. *Clinical Psychology: Science and Practice, 23*(4), 327–347. https://doi.org/10.1111/cpsp.12172
 
@@ -294,7 +296,8 @@ Youngstrom, E. A., & Van Meter, A. (2016). Empirically supported assessment of c
 
 #### <u>Section 13</u> {.unnumbered}
 
-<mark>American Psychological Association. (2017). Ethical principles of psychologists and code of conduct. https://www.apa.org/ethics/code (Sections 1, 2, 9).</mark>
+<mark>American Psychological Association. (2017). Ethical principles of psychologists and code of conduct. https://www.apa.org/ethics/code</mark>
+<mark style="background-color: lightblue">(Sections 1, 2, 9).</mark>
 
 Nagy, T. F. (2011). Ethics in psychological assessment. In T. F. Nagy (Ed.), *Essential ethics for psychologists: a primer for understanding and mastering core issues* (pp. 171–183). American Psychological Association. https://doi.org/10.1037/12345-009
 
@@ -318,8 +321,8 @@ Campbell, L., Vasquez, M., Behnke, S., & Kinscherff, R. (2010). Assessment. In L
 
 #### <u>Section 16</u> {.unnumbered #section16}
 
-<mark>McClelland, D. C. (1973). Testing for competence rather than for "intelligence.". American Psychologist, 28, 1–14. https://doi.org/10.1037/h0034092
-See also paper by Barrett and Depinet (1991), A reconsideration of Testing for Competence rather than for intelligence, *American Psychologist, 46*, 1012–1024; and McClelland and various others in reply (1994), *American Psychologist, 49*, 64–71</mark>
+<mark>McClelland, D. C. (1973). Testing for competence rather than for "intelligence.". American Psychologist, 28, 1–14. https://doi.org/10.1037/h0034092</mark>
+<mark style="background-color: lightblue">See also paper by Barrett and Depinet (1991), A reconsideration of Testing for Competence rather than for intelligence, *American Psychologist, 46*, 1012–1024; and McClelland and various others in reply (1994), *American Psychologist, 49*, 64–71</mark>
 
 ### Bias {#section17}
 
@@ -341,7 +344,10 @@ See also paper by Barrett and Depinet (1991), A reconsideration of Testing for C
 
 <mark>Faraone, S. V., & Tsuang, M. T. (1994). Measuring diagnostic accuracy in the absence of a "gold standard". *American Journal of Psychiatry, 151*, 650–657. https://doi.org/10.1176/ajp.151.5.650</mark>
 
-\*Sullivan, H. S. (1970). *The psychiatric interview*. Norton. Chapters 1–4, 7 [This is available in the UI library. You don't need to read it for this class. But you should read it at some point, as an example of a master clinician assessing patients by way of interview.]
+\*Sullivan, H. S. (1970). *The psychiatric interview*. Norton. Chapters 1–4, 7
+<mark style="background-color: lightblue">[This is available in the UI library.
+You don't need to read it for this class.
+But you should read it at some point, as an example of a master clinician assessing patients by way of interview.]</mark>
 
 Summerfeldt, L. J., Kloosterman, P. H., & Antony, M. M. (2010). Structured and semistructured diagnostic interviews. In M. M. Antony & D. H. Barlow (Eds.), *Handbook of assessment and treatment planning for psychological disorders* (2nd ed., pp. 95–137). Guilford Press. 
 
@@ -363,7 +369,9 @@ Clark, L. A., & Watson, D. (2019). Constructing validity: New developments in cr
 
 #### <u>Section 21</u> {.unnumbered #section21}
 
-\*Graham, J. R. (2022). *MMPI instruments: Assessing personality and psychopathology* (6th ed.). Oxford University Press. (Chapters 1–5). [This is available in the clinic library. Get a feel for this measure and the way it was developed, you don't need to remember details about the scales.]
+\*Graham, J. R. (2022). *MMPI instruments: Assessing personality and psychopathology* (6th ed.). Oxford University Press. (Chapters 1–5).
+<mark style="background-color: lightblue">[This is available in the clinic library.
+Get a feel for this measure and the way it was developed, you don't need to remember details about the scales.]</mark>
 
 Sellbom, M. (2019). The MMPI-2-Restructured Form (MMPI-2-RF): Assessment of personality and psychopathology in the twenty-first century. *Annual Review of Clinical Psychology, 15*(1), 149–177. https://doi.org/10.1146/annurev-clinpsy-050718-095701
 
@@ -385,21 +393,22 @@ Sellbom, M. (2019). The MMPI-2-Restructured Form (MMPI-2-RF): Assessment of pers
 
 <mark>Lilienfeld, S. O., Wood, J. M., & Garb, H. N. (2000). The scientific status of projective techniques. *Psychological Science in the Public Interest, 1*, 27–66. https://doi.org/10.1111/1529-1006.002</mark>
 
-\*Wood, J. M., Nezworski, M. T., & Stejskal, W. J. (1996). The comprehensive system for the Rorschach: A critical examination. *Psychological Science, 7*(1), 3–10. https://doi.org/10.1111/j.1467-9280.1996.tb00658.x. Also response from Exner and reply by Wood et al. on pp. 11–17.
+\*Wood, J. M., Nezworski, M. T., & Stejskal, W. J. (1996). The comprehensive system for the Rorschach: A critical examination. *Psychological Science, 7*(1), 3–10. https://doi.org/10.1111/j.1467-9280.1996.tb00658.x.
+<mark style="background-color: lightblue">Also response from Exner and reply by Wood et al. on pp. 11–17.</mark>
 
 ### Psychophysiological Measures and RDoC {#section24}
 
 #### <u>Section 24</u> {.unnumbered}
 
 Dubois, J., & Adolphs, R. (2016). Building a science of individual differences from fMRI. *Trends in Cognitive Sciences, 20*(6), 425–443. https://doi.org/10.1016/j.tics.2016.03.014
-[Students not working in imaging can skip over most of the technical details in this article.
-Read it as a model for taking measurement seriously in an emerging area of clinical research.]
+<mark style="background-color: lightblue">[Students not working in imaging can skip over most of the technical details in this article.
+Read it as a model for taking measurement seriously in an emerging area of clinical research.]</mark>
 
 <mark>Haynes, S. N., & Yoshioka, D. T. (2007). Clinical assessment applications of ambulatory biosensors. *Psychological Assessment, 19*(1), 44–57. https://doi.org/10.1037/1040-3590.19.1.44</mark>
 
 <mark>Kozak, M. J., & Cuthbert, B. N. (2016). The NIMH research domain criteria initiative: Background, issues, and pragmatics. *Psychophysiology, 53*(3), 286–297. https://doi.org/10.1111/psyp.12518</mark>
-[Students already familiar with RDoC can skim this introduction.
-Our interest is in examining RDoC from a measurement perspective.]
+<mark style="background-color: lightblue">[Students already familiar with RDoC can skim this introduction.
+Our interest is in examining RDoC from a measurement perspective.]</mark>
 
 MacNamara, A., & Phan, K. L. (2016). Psychobiological operationalization of RDoC constructs: Methodological and conceptual opportunities and challenges. *Psychophysiology, 53*(3), 406–409. https://doi.org/10.1111/psyp.12587
 
@@ -442,8 +451,8 @@ Sobell, L. C., & Sobell, M. B. (2008). Timeline followback (TLFB). In A. J. Rush
 <mark>Carpenter, R. W., Wycoff, A. M., & Trull, T. J. (2016). Ambulatory assessment: New adventures in characterizing dynamic processes. *Assessment, 23*(4), 414–424. https://doi.org/10.1177/1073191116632341</mark>
 
 <mark>Matthews, M., Abdullah, S., Murnane, E., Voida, S., Choudhury, T., Gay, G., & Frank, E. (2016). Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder. *Assessment, 23*(4), 472–483. https://doi.org/10.1177/1073191116656794</mark>
-[a case study in self-report across time.
-Specifics of their study are less important.]
+<mark style="background-color: lightblue">[a case study in self-report across time.
+Specifics of their study are less important.]</mark>
 
 #### <u>Section 28</u> {.unnumbered #section28}
 
@@ -452,8 +461,8 @@ Specifics of their study are less important.]
 Petersen, I. T., Choe, D. E., & LeBeau, B. (2020). Studying a moving target in development: The challenge and opportunity of heterotypic continuity. *Developmental Review, 58*, 100935. https://doi.org/10.1016/j.dr.2020.100935
 
 Beltz, A. M., Wright, A. G. C., Sprague, B. N., & Molenaar, P. C. M. (2016). Bridging the nomothetic and idiographic approaches to the analysis of clinical data. *Assessment, 23*(4), 447–458. https://doi.org/10.1177/1073191116648209
-[focus on the general issues of combining idiographic and nomothetic data.
-You don't need to know the technical details of their GIMME model.]
+<mark style="background-color: lightblue">[focus on the general issues of combining idiographic and nomothetic data.
+You don't need to know the technical details of their GIMME model.]</mark>
 
 ## Assessment of Cognition {#section29}
 
@@ -477,7 +486,8 @@ Treat, T. A., McFall, R. M., Viken, R. J., Kruschke, J. K., Nosofsky, R. M., & W
 
 #### <u>Section 30</u> {.unnumbered}
 
-It may be helpful to review the three Sackett papers and the Cole paper from the Intellectual Assessment section. Also review relevant sections of the APA Standards for Educational and Psychological Testing from the Validity section.
+<mark style="background-color: lightblue">It may be helpful to review the three Sackett papers and the Cole paper from the Intellectual Assessment section.
+Also review relevant sections of the APA Standards for Educational and Psychological Testing from the Validity section.</mark>
 
 <div style="text-indent: -40px; padding-left: 40px;">
 
