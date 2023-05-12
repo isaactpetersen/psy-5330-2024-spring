@@ -428,9 +428,9 @@ Forbey, J. D., & Ben-Porath, Y. S. (2007). Computerized adaptive personality tes
 
 #### <u>Section 26</u> {.unnumbered}
 
-Girard, J. M., & Cohn, J. F. (2016). A primer on observational measurement. *Assessment, 23*(4), 404–413. https://doi.org/10.1177/1073191116635807
+<mark>Girard, J. M., & Cohn, J. F. (2016). A primer on observational measurement. *Assessment, 23*(4), 404–413. https://doi.org/10.1177/1073191116635807</mark>
 
-Haynes, S. N. (2001). Clinical applications of analogue behavioral observation: dimensions of psychometric evaluation. *Psychological Assessment, 13*(1), 73–85. https://doi.org/10.1037/1040-3590.13.1.73 
+<mark>Haynes, S. N. (2001). Clinical applications of analogue behavioral observation: dimensions of psychometric evaluation. *Psychological Assessment, 13*(1), 73–85. https://doi.org/10.1037/1040-3590.13.1.73</mark>
 
 Korotitsch, W. J., & Nelson-Gray, R. O. (1999). An overview of self-monitoring research in assessment and treatment. *Psychological Assessment, 11*(4), 415–425. https://doi.org/10.1037/1040-3590.11.4.415 
 
@@ -442,17 +442,21 @@ Piasecki, T. M., Hufford, M. R., Solhan, M., & Trull, T. J. (2007). Assessing cl
 
 Sobell, L. C., & Sobell, M. B. (2008). Timeline followback (TLFB). In A. J. Rush Jr., M. B. First, & D. Blacker (Eds.), *Handbook of psychiatric measures* (2nd ed., pp. 466–468). American Psychiatric Publishing. 
 
-Carpenter, R. W., Wycoff, A. M., & Trull, T. J. (2016). Ambulatory assessment: New adventures in characterizing dynamic processes. *Assessment, 23*(4), 414–424. https://doi.org/10.1177/1073191116632341 
+<mark>Carpenter, R. W., Wycoff, A. M., & Trull, T. J. (2016). Ambulatory assessment: New adventures in characterizing dynamic processes. *Assessment, 23*(4), 414–424. https://doi.org/10.1177/1073191116632341</mark>
 
-Matthews, M., Abdullah, S., Murnane, E., Voida, S., Choudhury, T., Gay, G., & Frank, E. (2016). Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder. *Assessment, 23*(4), 472–483. https://doi.org/10.1177/1073191116656794 [a case study in self-report across time. Specifics of their study are less important.]
+<mark>Matthews, M., Abdullah, S., Murnane, E., Voida, S., Choudhury, T., Gay, G., & Frank, E. (2016). Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder. *Assessment, 23*(4), 472–483. https://doi.org/10.1177/1073191116656794</mark>
+[a case study in self-report across time.
+Specifics of their study are less important.]
 
 #### <u>Section 28</u> {.unnumbered #section28}
 
-Hertzog, C., & Nesselroade, J. R. (2003). Assessing psychological change in adulthood: An overview of methodological issues. *Psychology and Aging, 18*(4), 639–657. https://doi.org/10.1037/0882-7974.18.4.639
+<mark>Hertzog, C., & Nesselroade, J. R. (2003). Assessing psychological change in adulthood: An overview of methodological issues. *Psychology and Aging, 18*(4), 639–657. https://doi.org/10.1037/0882-7974.18.4.639</mark>
 
 Petersen, I. T., Choe, D. E., & LeBeau, B. (2020). Studying a moving target in development: The challenge and opportunity of heterotypic continuity. *Developmental Review, 58*, 100935. https://doi.org/10.1016/j.dr.2020.100935
 
-Beltz, A. M., Wright, A. G. C., Sprague, B. N., & Molenaar, P. C. M. (2016). Bridging the nomothetic and idiographic approaches to the analysis of clinical data. *Assessment, 23*(4), 447–458. https://doi.org/10.1177/1073191116648209 [focus on the general issues of combining idiographic and nomothetic data. You don't need to know the technical details of their GIMME model.]
+Beltz, A. M., Wright, A. G. C., Sprague, B. N., & Molenaar, P. C. M. (2016). Bridging the nomothetic and idiographic approaches to the analysis of clinical data. *Assessment, 23*(4), 447–458. https://doi.org/10.1177/1073191116648209
+[focus on the general issues of combining idiographic and nomothetic data.
+You don't need to know the technical details of their GIMME model.]
 
 ## Assessment of Cognition {#section29}
 
@@ -460,13 +464,13 @@ Beltz, A. M., Wright, A. G. C., Sprague, B. N., & Molenaar, P. C. M. (2016). Bri
 
 \*Busemeyer, J. R., & Stout, J. C. (2002). A contribution of cognitive decision models to clinical assessment: Decomposing performance on the Bechara gambling task. *Psychological Assessment, 14*(3), 253–262. https://doi.org/10.1037/1040-3590.14.3.253
 
-Dunkley, D. M., Segal, Z. V., & Blankstein, K. R. (2019). Cognitive assessment: Issues and methods. In K. S. Dobson & D. J. A. Dozois (Eds.), *Handbook of cognitive-behavioral therapies* (4th ed., pp. 85–119). Guilford Press.
+<mark>Dunkley, D. M., Segal, Z. V., & Blankstein, K. R. (2019). Cognitive assessment: Issues and methods. In K. S. Dobson & D. J. A. Dozois (Eds.), *Handbook of cognitive-behavioral therapies* (4th ed., pp. 85–119). Guilford Press.</mark>
 
 Davison, G. C., Vogel, R. S., & Coffman, S. G. (1997). Think-aloud approaches to cognitive assessment and the articulated thoughts in simulated situations paradigm. *Journal of Consulting and Clinical Psychology, 65*(6), 950–958. https://doi.org/10.1037/0022-006X.65.6.950
 
 Hurlburt, R. T. (1997). Randomly sampling thinking in the natural environment. *Journal of Consulting and Clinical Psychology, 65*(6), 941–949. https://doi.org/10.1037/0022-006X.65.6.941 
 
-Rodebaugh, T. L., Scullin, R. B., Langer, J. K., Dixon, D. J., Huppert, J. D., Bernstein, A., Zvielli, A., & Lenze, E. J. (2016). Unreliability as a threat to understanding psychopathology: The cautionary tale of attentional bias. *Journal of Abnormal Psychology, 125*(6), 840–851. https://doi.org/10.1037/abn0000184 
+<mark>Rodebaugh, T. L., Scullin, R. B., Langer, J. K., Dixon, D. J., Huppert, J. D., Bernstein, A., Zvielli, A., & Lenze, E. J. (2016). Unreliability as a threat to understanding psychopathology: The cautionary tale of attentional bias. *Journal of Abnormal Psychology, 125*(6), 840–851. https://doi.org/10.1037/abn0000184</mark>
 
 Treat, T. A., McFall, R. M., Viken, R. J., Kruschke, J. K., Nosofsky, R. M., & Wang, S. S. (2007). Clinical cognitive science: Applying quantitative models of cognitive processing to examine cognitive aspects of psychopathology. In R. W. J. Neufeld (Ed.), *Advances in clinical cognitive science: Formal modeling of processes and symptoms* (pp. 179–205). American Psychological Association. https://doi.org/10.1037/11556-006
 
@@ -482,13 +486,13 @@ It may be helpful to review the three Sackett papers and the Cole paper from the
 
 Byrd, D. A., Rivera Mindt, M. M., Clark, U. S., Clarke, Y., Thames, A. D., Gammada, E. Z., & Manly, J. J. (2021). Creating an antiracist psychology by addressing professional complicity in psychological assessment. *Psychological Assessment, 33*(3), 279-285. https://doi.org/10.1037/pas0000993
 
-Okazaki, S., & Sue, S. (1995). Methodological issues in assessment research with ethnic minorities. *Psychological Assessment, 7*(3), 367–375. https://doi.org/10.1037/1040-3590.7.3.367
+<mark>Okazaki, S., & Sue, S. (1995). Methodological issues in assessment research with ethnic minorities. *Psychological Assessment, 7*(3), 367–375. https://doi.org/10.1037/1040-3590.7.3.367</mark>
 
 Garb, H. N. (1997). Race bias, social class bias, and gender bias in clinical judgment. *Clinical Psychology: Science and Practice, 4*(2), 99–120. https://doi.org/10.1111/j.1468-2850.1997.tb00104.x
 
 Leong, F. T. L., & Kalibatseva, Z. (2016). Threats to cultural validity in clinical diagnosis and assessment: Illustrated with the case of Asian Americans. In N. Zane, G. Bernal, & F. T. L. Leong (Eds.), *Evidence-based psychological practice with ethnic minorities: Culturally informed research and clinical strategies* (pp. 57–74). American Psychological Association.
 
-Suzuki, L. A., Onoue, M. A., & Hill, J. S. (2013). Clinical assessment: A multicultural perspective. In K. F. Geisinger, J. F. Carlson, J.-I. C. Hansen, N. R. Kuncel, S. P. Reise, & M. C. Rodriguez (Eds.), *APA handbook of testing and assessment in psychology* (Vol. 2: Testing and assessment in clinical and counseling psychology, pp. 193–212). American Psychological Association. https://doi.org/10.1037/14048-012
+<mark>Suzuki, L. A., Onoue, M. A., & Hill, J. S. (2013). Clinical assessment: A multicultural perspective. In K. F. Geisinger, J. F. Carlson, J.-I. C. Hansen, N. R. Kuncel, S. P. Reise, & M. C. Rodriguez (Eds.), *APA handbook of testing and assessment in psychology* (Vol. 2: Testing and assessment in clinical and counseling psychology, pp. 193–212). American Psychological Association. https://doi.org/10.1037/14048-012</mark>
 
 </div>
 
