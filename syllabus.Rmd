@@ -71,7 +71,7 @@ Learning the important principles will put you in a better position to learn any
 
 # Supplemental Resources {#supplemental}
 
-Even the course is focused on principles of psychological assessment and not on application, I want you to be able to apply the principles we discuss.
+Even though course is focused on principles of psychological assessment and not on application, I want you to be able to apply the principles we discuss.
 So, I provide lots of additional readings and resources on the assessment of particular disorders, using particular measures, etc.
 These supplemental resources are in the "For More Info" folder in [ICON](https://icon.uiowa.edu).
 The folder also includes an EndNote file with the course readings.
