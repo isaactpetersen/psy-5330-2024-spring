@@ -50,14 +50,32 @@ To succeed in the class, it is helpful to have foundational understanding of cor
 
 # Description of Course {#description}
 
+Much of the current discussion in psychology surrounding the replication crisis deals with questionable research practices.
+However, the field has paid insufficient attention to how lousy/noisy measures might contribute to the replication crisis (Loken & Gelman, 2017).
+In this class, we cover content that is relevant to all of Psychology and science more broadly, including how to develop, administer, score, integrate, and interpret measures.
+Topics will include, for example, psychometrics (reliability and validity), prediction, structural equation modeling, factor analysis, signal detection theory, item response theory, adaptive testing, longitudinal/repeated measurement, and issues in cognitive, social/behavioral, and psychophysiological assessment. 
+
 In this course, we examine basic psychometrics and the background, development, evaluation, administration, scoring, integration, and interpretation of selected techniques in psychological assessment.
 The course applies a scientific perspective to psychological assessment.
 *You are urged to reconsider your decision to take this class if you are reluctant to examine these topics in a scientific manner.*
 
+The focus of this class is NOT how to assess each psychological disorder or how to use particular measures.
+The goal for this class is to learn important *principles* of psychological assessment.
+
 # Learning Objectives {#objectives}
 
-This course is focused on important principles of psychological assessment, not on application.
+The focus of this class is NOT on application (e.g., how to assess each psychological disorder, how to use particular measures, etc).
+This course is focused on important *principles* of psychological assessment.
 The goal of the class is to give you lots of "thinking tools" relevant to psychological assessment—i.e., "how to think" about and critically evaluate assessments in psychology—to help you advance your research program.
+Learning the important principles will put you in a better position to learn any assessment, and to develop better ones.
+
+# Supplemental Resources {#supplemental}
+
+Even the course is focused on principles of psychological assessment and not on application, I want you to be able to apply the principles we discuss.
+So, I provide lots of additional readings and resources on the assessment of particular disorders, using particular measures, etc.
+These supplemental resources are in the "For More Info" folder in [ICON](https://icon.uiowa.edu).
+The folder also includes an EndNote file with the course readings.
+In addition, I provide a companion book (see [below](#textbook)).
 
 # Course Book {#textbook}
 
@@ -513,7 +531,7 @@ There are 15 weeks in the semester, and class meets twice per week (30 sections)
 We will have one exam during the semester and one final exam during finals week.
 
 | **Section**      | **Day** | **Date** | **Content**                                                    |
-|------------------|---------|----------|----------------------------------------------------------------|
+|:-----------------|:--------|:---------|:---------------------------------------------------------------|
 | [1](#section1)   | T       | 01/16    | Overview of Class; Clinical Science and the Replication Crisis |
 | [2](#section2)   | Th      | 01/18    | Reliability                                                    |
 | [3](#section3)   | T       | 01/23    | Reliability                                                    |
@@ -562,8 +580,9 @@ There are many course resources available to help you succeed in the class, incl
 - Lectures
 - Lecture slides
 - [Lecture recordings](#recordings)
-- Readings
+- [Readings](#articles)
 - [Companion book](#textbook)
+- [Supplemental resources](#supplemental)
 - Discussions on [ICON](https://icon.uiowa.edu)
 - Office hours
 - Peer study groups

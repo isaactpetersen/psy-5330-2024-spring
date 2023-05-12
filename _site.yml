@@ -24,6 +24,8 @@ navbar:
   left:
     - text: "Course Syllabus"
       href: syllabus.html
+    - text: "Textbook"
+      href: https://isaactpetersen.github.io/Principles-Psychological-Assessment
     - text: "Miscellaneous"
       menu:
       - text: I Think I Might Need Some Help...
