@@ -53,7 +53,7 @@ To succeed in the class, it is helpful to have foundational understanding of cor
 Much of the current discussion in psychology surrounding the replication crisis deals with questionable research practices.
 However, the field has paid insufficient attention to how lousy/noisy measures might contribute to the replication crisis (Loken & Gelman, 2017).
 In this class, we cover content that is relevant to all of Psychology and science more broadly, including how to develop, administer, score, integrate, and interpret measures.
-Topics will include, for example, psychometrics (reliability and validity), prediction, structural equation modeling, factor analysis, signal detection theory, item response theory, adaptive testing, longitudinal/repeated measurement, and issues in cognitive, social/behavioral, and psychophysiological assessment. 
+Topics will include, for example, psychometrics ([reliability](#section2) and [validity](#section4)), [prediction](#section8), [structural equation modeling](#section6), [factor analysis](#section20), [signal detection theory](#section9), [item response theory](#section7), [adaptive testing](#section25), [longitudinal/repeated measurement](#section27), and issues in [cognitive](#section29), [social/behavioral](#section26), and [psychophysiological](#section24) assessment. 
 
 In this course, we examine basic psychometrics and the background, development, evaluation, administration, scoring, integration, and interpretation of selected techniques in psychological assessment.
 The course applies a scientific perspective to psychological assessment.
@@ -375,7 +375,7 @@ Get a feel for this measure and the way it was developed, you don't need to reme
 
 Sellbom, M. (2019). The MMPI-2-Restructured Form (MMPI-2-RF): Assessment of personality and psychopathology in the twenty-first century. *Annual Review of Clinical Psychology, 15*(1), 149–177. https://doi.org/10.1146/annurev-clinpsy-050718-095701
 
-<mark>iggins, J. S. (1973). Structured techniques. In J. S. Wiggins (Ed.), *Personality and prediction: Principles of personality assessment* (pp. 380–440). Addison-Wesley.</mark>
+<mark>Wiggins, J. S. (1973). Structured techniques. In J. S. Wiggins (Ed.), *Personality and prediction: Principles of personality assessment* (pp. 380–440). Addison-Wesley.</mark>
 
 #### <u>Section 22</u> {.unnumbered #section22}
 
