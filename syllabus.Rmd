@@ -669,7 +669,7 @@ The LOA will specify what reasonable course accommodations the student is eligib
 
 # Where to Get Academic Support for This Course {#academic-support}
 
-- <mark>Drop-in study groups and one-on-one tutoring: drop-in student hours of the instructor</mark>
+- Drop-in study groups and one-on-one tutoring: drop-in student hours of the instructor
 - Formal tutoring: Tutor Iowa: https://tutor.uiowa.edu
 - Academic accommodations: https://sds.studentlife.uiowa.edu
 
