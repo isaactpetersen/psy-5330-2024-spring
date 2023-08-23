@@ -3,9 +3,10 @@ title: "Course Syllabus"
 ---
 
 ```{r setup, include = FALSE}
-knitr::opts_chunk$set(echo = TRUE,
-                      error = TRUE,
-                      comment = "")
+knitr::opts_chunk$set(
+  echo = TRUE,
+  error = TRUE,
+  comment = "")
 ```
 
 Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
@@ -16,7 +17,7 @@ PSY:5330 – Principles of Psychological Assessment (Spring 2024)
 
 # Course Meeting Time and Place {#lectureTime}
 
-Tuesday & Thursday 11:00 a.m.–12:15 p.m., 109 Stuit Hall (STH)
+Tuesday & Thursday 9:30 a.m.–10:45 a.m., 109 Stuit Hall (STH)
 
 # Course Website {#website}
 
