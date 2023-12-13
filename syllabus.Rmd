@@ -27,10 +27,10 @@ To access the course site, log into [Iowa Courses Online (ICON)](https://icon.ui
 
 # Course Home {#home}
 
-The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the add and drop deadlines, the "second-grade only" option (SGO), academic misconduct policies, and other policies and procedures.
-Other UI colleges may have different policies.
+The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the policies and procedures for its courses.
+Graduate students, however, must adhere to the [academic deadlines set by the Graduate College](https://grad.uiowa.edu/academics/deadlines).
 
-# Instructor {#instructor}
+# Instructor Contact Information {#instructor}
 
 [Isaac T. Petersen, Ph.D.](https://psychology.uiowa.edu/people/isaac-petersen)\
 Office: 175 Psychological and Brain Sciences Building (PBSB)\
@@ -87,7 +87,7 @@ You can access the book here: https://isaactpetersen.github.io/Principles-Psycho
 # Academic Honesty and Misconduct {#academicHonesty}
 
 All students in CLAS courses are expected to abide by the [CLAS Code of Academic Honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
-Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
+Academic misconduct must be reported to the Graduate College according to Section F of the [Graduate College Manual](https://grad.uiowa.edu/academics/manual/academic-program/section-iv-academic-standing-probation-and-dismissal).
 Please note that collaboration with other classmates during exams is not permitted.
 However, I do encourage you to collaborate with classmates on readings and to *prepare* for exams (e.g., informal study groups).
 Because writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all work submitted by students should be prepared by the student.
@@ -611,7 +611,7 @@ You can look up the [drop deadline for this course](https://registrar.uiowa.edu/
 When you drop a course, a "W" will appear on your transcript.
 The mark of "W" is a neutral mark that does not affect your GPA.
 Directions for adding or dropping a course and other registration changes can be found on the [Registrar's website](https://registrar.uiowa.edu/change-registration-myui).
-Students can find policies on dropping and withdrawing [here](https://clas.uiowa.edu/students/students-academic-policies/registration-policies#dropping).
+Students should adhere to the [academic deadlines](https://grad.uiowa.edu/academics/deadlines) and policies set by the Graduate College.
 
 # Feedback about the Course {#feedback}
 
@@ -658,13 +658,13 @@ Arriving prepared for class is part of this expectation.
 The University is committed to providing an educational experience that is accessible to all.
 If a student has a diagnosed disability or other disabling condition that may impact the student's ability to complete the course requirements as stated in the syllabus, the student may seek accommodations through [Student Disability Services](https://sds.studentlife.uiowa.edu/students) (SDS).
 SDS is responsible for making Letters of Accommodation (LOA) available.
-The student must provide an LOA to the instructor as early in the semester as possible, but requests not made at least two weeks prior to the scheduled activity for which an accommodation is sought may not be accommodated.
+<u>The student must provide an LOA to the instructor as early in the semester as possible, but requests not made at least two weeks prior to the scheduled activity for which an accommodation is sought may not be accommodated.</u>
 The LOA will specify what reasonable course accommodations the student is eligible for and those the instructor should provide. Additional information can be found on the [SDS website](https://sds.studentlife.uiowa.edu/students/apply).
 
-- [Classroom Expectations](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#classroom-expectations)
 - [Free Speech and Expression](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#free-speech-and-expression)
-- [Non-discrimination](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#non-discrimination-statement)
 - [Absences for Religious Holy Days](https://opsmanual.uiowa.edu/students/absences-class#8.2)
+- [Classroom Expectations](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#classroom-expectations)
+- [Non-discrimination](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#non-discrimination-statement)
 - [Sexual Harassment/Misconduct and Supportive Measures](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sexual-harassment--sexual-misconduct-and-supportive-measures)
 - [Sharing of Class Recordings](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sharing-of-class-recordings-if-appropriate)
 
