@@ -113,8 +113,9 @@ Please bear in mind that extensive or complex questions may not be addressable o
 
 ### Lecture Recordings {#recordings}
 
-My intention is to record lectures so that you may review them.
+My intention is to record lectures so the lectures are available to you virtually and in person so you have the choice of viewing them how you see fit and so you may review them.
 Recorded lectures will be posted on the "UICapture" tab in [ICON](https://icon.uiowa.edu).
+Unfortunately, the recordings do not capture when I draw on the classroom whiteboard.
 Recordings will be available up to 48 hours after class (for Thursday lectures) or until the Thursday class period (for Tuesday lectures).
 However, <u>please do not count on recordings being available</u>, in case I accidentally forget to initiate the recording or there is a technical malfunction.
 The availability of lecture recordings will not be extended beyond 48 hours after lecture—the recordings are meant to help people keep up with lectures and for students to retrieve the relevant content if they missed anything during the live lecture or if they miss the lecture; they are not meant to be a study method that allows people to fall behind in class from week to week.
