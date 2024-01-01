@@ -129,6 +129,7 @@ Attendance and participation are strongly encouraged to maximize your and others
 
 Readings and other materials will be posted on [ICON](https://icon.uiowa.edu).
 Doing the relevant readings before each class will help you best come prepared to learn the material presented in class.
+The articles to read are specified in the [Articles](#articles) section of the syllabus.
 
 ## Examinations {#exams}
 
@@ -158,6 +159,10 @@ Your final paper is due before the last class (<u>**Deadline: 9:30 am on Thursda
 Please submit your paper via [ICON](https://icon.uiowa.edu).
 
 # Articles {#articles}
+
+The section covered for each class is described in the [Course Outline](#outline).
+The articles to read for each section are specified below.
+Articles are posted in the "Files" tab on [ICON](https://icon.uiowa.edu).
 
 \*Designates a paper that you should read, get the basic idea, and remember where to find it if you need further information.
 These are typically historical papers, illustrations of specific techniques, or useful references.
