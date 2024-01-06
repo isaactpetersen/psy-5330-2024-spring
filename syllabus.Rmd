@@ -668,11 +668,16 @@ SDS is responsible for making Letters of Accommodation (LOA) available.
 The LOA will specify what reasonable course accommodations the student is eligible for and those the instructor should provide. Additional information can be found on the [SDS website](https://sds.studentlife.uiowa.edu/students/apply).
 
 - [Free Speech and Expression](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#free-speech-and-expression)
-- [Absences for Religious Holy Days](https://opsmanual.uiowa.edu/students/absences-class#8.2)
-- [Classroom Expectations](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#classroom-expectations)
+- [Absences for Religious Holy Days](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#absences-for-religious-holy-days)
 - [Non-discrimination](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#non-discrimination-statement)
+- [Classroom Expectations](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#classroom-expectations)
 - [Sexual Harassment/Misconduct and Supportive Measures](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sexual-harassment--sexual-misconduct-and-supportive-measures)
+- [Conflict Resolution](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#conflict-resolution)
+- [Mental Health](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#mental-health)
+- [Basic Needs and Student Support](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#basic-needs-and-student-support)
 - [Sharing of Class Recordings](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sharing-of-class-recordings-if-appropriate)
+- [Absences from Class](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#absences-from-class)
+- [Absences for Military Service Obligations](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#absences-for-military-service-obligations)
 
 # Where to Get Academic Support for This Course {#academic-support}
 
