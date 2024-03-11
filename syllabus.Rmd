@@ -79,6 +79,7 @@ In addition, I provide a companion book (see [below](#textbook)).
 
 I want those who are interested to be in the best position to apply the principles we discuss.
 Thus, I created a companion book for the course that includes practical data and analysis examples to help you better understand the principles and how to apply them in your own research.
+<u>The course book is NOT intended to replace the importance of reading the [required primary source articles](#readings)</u> (which are covered on the exams).
 The course book includes exercises to help you test your comprehension.
 You are not required or expected to read it for this class.
 It is merely meant to be a helpful supplementary resource for those who are interested.
@@ -127,8 +128,9 @@ Attendance and participation are strongly encouraged to maximize your and others
 
 ## Readings {#readings}
 
+We have lots of content to cover, and the lectures will move quickly.
+Thus, doing the relevant readings *before* each class will help you best come prepared to learn the material presented in class.
 Readings and other materials will be posted on [ICON](https://icon.uiowa.edu).
-Doing the relevant readings before each class will help you best come prepared to learn the material presented in class.
 The articles to read are specified in the [Articles](#articles) section of the syllabus.
 
 ## Examinations {#exams}
