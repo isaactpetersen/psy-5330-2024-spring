@@ -75,15 +75,15 @@ These supplemental resources are in the "For More Info" folder in [ICON](https:/
 The folder also includes an EndNote file with the course readings.
 In addition, I provide a companion book (see [below](#textbook)).
 
-# Course Book {#textbook}
+# Companion Book {#textbook}
 
 I want those who are interested to be in the best position to apply the principles we discuss.
 Thus, I created a companion book for the course that includes practical data and analysis examples to help you better understand the principles and how to apply them in your own research.
-<u>The course book is NOT intended to replace the importance of reading the [required primary source articles](#readings)</u> (which are covered on the exams).
-The course book includes exercises to help you test your comprehension.
-You are not required or expected to read it for this class.
-It is merely meant to be a helpful supplementary resource for those who are interested.
-You can access the book here: https://isaactpetersen.github.io/Principles-Psychological-Assessment
+The companion book includes exercises to help you test your comprehension.
+<u>The companion book is NOT intended to replace the importance of reading the [required primary source articles](#readings)</u> (which are covered on the exams).
+<u>You are NOT required or expected to read the companion book for this class.</u>
+The companion book is merely meant to be a helpful supplementary resource for those who are interested.
+You can access the companion book here: https://isaactpetersen.github.io/Principles-Psychological-Assessment
 
 # Academic Honesty and Misconduct {#academicHonesty}
 
