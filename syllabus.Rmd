@@ -612,6 +612,35 @@ There are many course resources available to help you succeed in the class, incl
 - the UI [Writing Center](https://writingcenter.uiowa.edu)
 - Tutor Iowa: https://tutor.uiowa.edu
 
+# How to Study for this Class {#howToStudy}
+
+To study for this class, my suggestions are:
+
+1. Read the [assigned readings](#articles) *before* each class.
+We have lots of content to cover, and the lectures will move quickly.
+Thus, doing the relevant readings *before* each class will help you best come prepared to learn the material presented in class.
+2. Take good notes while doing the [assigned readings](#articles).
+After reading each article, leave a few bullet points at the top of the article regarding the key points and take-away messages from the article.
+That way, when you go back and review it, the key ideas will refresh your memory and will help you make the relevant connections to the rest of your notes on the article and to the points discussed in lecture.
+1. After doing the [assigned readings](#articles) and before class period, review your notes and try to determine what are the key messages intended to conveyed by the collection of readings.
+The will set you up to be in the best position to acquire the material covered in lecture.
+1. Take good notes in class.
+1. If something is unclear about the reading or about a point discussed in lecture, feel free to consult the [companion book](#textbook), to review the [lecture recording](#recordings), or to ask questions during or after class, or in office hours.
+Don't struggle in silence!
+1. As you prepare for the exam, review the material covered by each article and lecture.
+If there is an exam review or example study questions, make sure to review those closely.
+The exam review presents some of the key take-away messages from each lecture and thus represents prime material for exam questions.
+The example study questions are NOT comprehensive and are NOT necessarily the same questions that will be asked on the exam, but they should give you a sense of the style in which questions may be asked.
+If there is a question you do not know the full answer to, that is a clue that you need to study that topic more closely.
+1. I strongly encourage you to study with your peers.
+Studying with your peers helps give you a sense about the topics where you feel stronger and the topics where you feel weaker (and need to study more).
+It helps both peers in the exchange when one peer explains a topic to another.
+In addition to helping the listening student learn, peer instruction also helps the explaining student via consolidation of the student's knowledge.
+There is a difference between "knowing something" and "knowing it *well*."
+Explaining a topic to someone else helps you figure out where your knowledge gaps are and can help you make sure you understand the topic *well*.
+Additionally, studying by explaining topics to others aligns more closely with the exam format (short answer/essay), which demands recall rather than mere recognition—recognition alone being typically adequate for multiple-choice exams.
+1. Come to office hours if you still have questions!
+
 # Drop Deadline for this Course {#dropDeadline}
 
 You may drop an individual course before the deadline; after this deadline you will need collegiate approval.
