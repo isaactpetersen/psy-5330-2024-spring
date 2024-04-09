@@ -428,7 +428,7 @@ Miller, G. A., Rockstroh, B. S., Hamilton, H. K., & Yee, C. M. (2016). Psychophy
 
 <mark>Miller, G. A., Elbert, T., Sutton, B. P., & Heller, W. (2007). Innovative clinical assessment technologies: Challenges and opportunities in neuroimaging. *Psychological Assessment, 19*(1), 58–73. https://doi.org/10.1037/1040-3590.19.1.58</mark>
 
-*Stone, A. A., Schneider, S., & Smyth, J. M. (2023). Evaluation of pressing issues in ecological momentary assessment. *Annual Review of Clinical Psychology, 19*(1), 107–131. https://doi.org/10.1146/annurev-clinpsy-080921-083128
+\*Stone, A. A., Schneider, S., & Smyth, J. M. (2023). Evaluation of pressing issues in ecological momentary assessment. *Annual Review of Clinical Psychology, 19*(1), 107–131. https://doi.org/10.1146/annurev-clinpsy-080921-083128
 
 ### Computers and Adaptive Testing {#section25}
 
@@ -436,7 +436,7 @@ Miller, G. A., Rockstroh, B. S., Hamilton, H. K., & Yee, C. M. (2016). Psychophy
 
 <mark>Buchanan, T. (2002). Online assessment: Desirable or dangerous? *Professional Psychology: Research and Practice, 33*(2), 148–154. https://doi.org/10.1037/0735-7028.33.2.148</mark>
 
-*Galatzer-Levy, I. R., & Onnela, J.-P. (2023). Machine learning and the digital measurement of psychological health. *Annual Review of Clinical Psychology, 19*, 133–154. https://doi.org/10.1146/annurev-clinpsy-080921-073212
+\*Galatzer-Levy, I. R., & Onnela, J.-P. (2023). Machine learning and the digital measurement of psychological health. *Annual Review of Clinical Psychology, 19*, 133–154. https://doi.org/10.1146/annurev-clinpsy-080921-073212
 
 Garb, H. N. (2007). Computer-administered interviews and rating scales. *Psychological Assessment, 19*(1), 4–13. https://doi.org/10.1037/1040-3590.19.1.4
 
